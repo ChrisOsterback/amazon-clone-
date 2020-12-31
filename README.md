@@ -1,4 +1,4 @@
-# amazon-clone-
+# amazon-clone- https://fir-da692.web.app/
 
 ![Optional Text](./frontend/Capone.PNG)
 ![Optional Text](./frontend/captwo.PNG)
